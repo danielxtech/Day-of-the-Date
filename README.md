@@ -27,11 +27,3 @@ Enter month (1-12): 8
 Enter day (1-31): 5  
 The day of the week is: Tuesday
 ```
-
-## 📁 File Structure
-
-```
-📦 day-of-week
- ┣ 📄 main.cpp         // Main program logic
- ┗ 📄 README.md        // Project documentation
-```
