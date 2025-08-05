@@ -28,23 +28,6 @@ Enter day (1-31): 5
 The day of the week is: Tuesday
 ```
 
-## 🚀 How to Run
-
-Make sure you have a C++ compiler installed. Then compile and run:
-
-```bash
-g++ -o day_of_week main.cpp
-./day_of_week
-```
-
-## 🛡️ Error Handling
-
-- If a user inputs an invalid date, the program throws a detailed error message.
-- Example:
-  ```
-  Input error: Invalid day for February.
-  ```
-
 ## 📁 File Structure
 
 ```
